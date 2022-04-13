@@ -1,7 +1,7 @@
 #  👋 Hi, I’m @Kovinda
 - 👀 I’m interested in Python, Javascript, HTML, CSS, Vue, C++, Vue, Arduino and WordPress
 - 🌱 I’m currently learning nothing 😭 related 😭 to 😭 programming 😭....
-- 🌱 Medical College.. AAAAAAAAAAAAAAAAAAAA !
+- 🌱 Medical College... AAAAAAAAAAAAAAAAAAAA ! 😵‍💫
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me at kovinda.thisal@
