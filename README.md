@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kovinda
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Full+Stack+Developer;Mobile+App+Developer;Medical+Student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Full+Stack+Developer;Medical+Student)](https://git.io/typing-svg)
 
 ## 🚀 About Me
 - 🎓 Currently pursuing Medical Studies (and surviving! 😵‍💫)
