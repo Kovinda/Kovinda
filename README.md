@@ -49,7 +49,5 @@
 ## 💭 Quote of the Day
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
 
----
-⚡ Fun fact: I'm balancing medical studies while keeping my passion for programming alive! 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Kovinda&color=blueviolet)
